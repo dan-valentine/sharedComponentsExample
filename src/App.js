@@ -19,6 +19,7 @@ class App extends Component {
           <Button style={style} className='foo'>
             good Nye
           </Button>
+          <textarea name='commentbox'/>
         </header>
       </div>
     );
